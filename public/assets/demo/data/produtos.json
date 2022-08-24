@@ -1,0 +1,8 @@
+
+{
+    "data": [
+        {"id": "1000","codigo":"codevest001", "nome": "Vestido Florido Amarelo","descricao": "Vestido longo em algodão com amarração.","categoria":"1000", "preco_custo": 45.99,"preco_venda": 139.99,"status_inventario": "INSTOCK","avaliacao": 3},
+        {"id": "1001","codigo":"codevest001", "nome": "Vestido Florido Verde","descricao": "Vestido longo em algodão com amarração.","categoria":"1000", "preco_custo": 45.99,"preco_venda": 139.99,"status_inventario": "INSTOCK","avaliacao": 4}
+    ]
+}
+    

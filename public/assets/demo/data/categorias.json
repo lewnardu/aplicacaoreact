@@ -1,0 +1,13 @@
+{
+    "data": [
+        {"id": "1000","nome":"Vestidos","descricao": "Vestidos de vários modelos e tecidos."},
+        {"id": "1001","nome":"Blusas","descricao": "Blusas de vários modelos e tecidos."},
+        {"id": "1002","nome":"Macaquinhos","descricao": "Macaquinhos de vários modelos e tecidos."},
+        {"id": "1003","nome":"Camisetas","descricao": "Camisetas de vários modelos e tecidos."},
+        {"id": "1004","nome":"Shorts","descricao": "Shorts de vários modelos e tecidos."},
+        {"id": "1005","nome":"Saias","descricao": "Saias de vários modelos e tecidos."},
+        {"id": "1006","nome":"Acessórios","descricao": "Acessórios diversificados."}
+
+    ]
+}
+    
