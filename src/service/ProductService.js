@@ -22,6 +22,8 @@ export class ProductService {
     }
     
     getCategorias() {
-        return axios.get('assets/demo/data/categorias.json').then(res => res.data.data);
+        return api.get('produtos/categorias/').then(res => res.data.data).catch((error) =>{
+            console.log(error.message);
+        });
     }
 }
