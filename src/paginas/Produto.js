@@ -152,10 +152,11 @@ const Crud = () => {
         setSelectedProdutos(null);
         toast.current.show({ severity: 'success', summary: 'Successful', detail: 'Produtos Deleted', life: 3000 });
     }
-
+    /**
     const categoriasItems = categorias.map((elemento) => {
         return {label:`${elemento.nome}`, value: `${elemento.id}`}
     });
+    */
     
     const onCategoriaChange = (e) => {
         let _produto = { ...produto };
